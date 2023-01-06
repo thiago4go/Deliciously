@@ -36,8 +36,19 @@ A web application for creating and sharing recipes, saving favorite recipes, and
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://mit-license.org/).
 
 ## Contributing
 
-We welcome contributions from the community! Please see [CONTRIBUTING](CONTRIBUTING.md) for details on how to submit contributions to this project.
+We welcome contributions from the community! If you would like to contribute to this project, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your contribution.
+3. Make your changes and commit them to your branch.
+4. Submit a pull request from your branch to the main repository.
+
+Thank you for your interest in contributing to this project!
+
+## Support
+
+For support and questions, please open an issue or join our community forum.
