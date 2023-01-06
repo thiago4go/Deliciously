@@ -25,7 +25,7 @@ A web application for creating and sharing recipes, saving favorite recipes, and
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/[your-username]/recipe-platform.git`
+1. Clone the repository: `git clone https://github.com/thiago4go/Deliciously.git`
 2. Install dependencies: `composer install`
 3. Create a copy of the `.env.example` file and rename it to `.env`. Update the database credentials in the `.env` file.
 4. Generate an app key: `php artisan key:generate`
